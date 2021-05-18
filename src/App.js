@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Holladcdd
-          dddazzzzzz55. This is a quick test...
+          This is coming from the feature branch...
         </p>
         <a
           className="App-link"
